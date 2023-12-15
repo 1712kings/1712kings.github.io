@@ -1,0 +1,38 @@
+
+
+<!DOCTYPE html>
+
+<html>
+    
+
+<head>
+        <title>
+            
+            1712kingsofworld
+        
+        </title>
+    </head>
+    
+    
+    <body>
+
+        <hr>
+
+        <H1>Meu Site</H1>
+    
+        <hr>
+    
+        Meu primeiro site Html5
+        <a href="http://auxiliadora.nd.org.br" target="_blank">Minha escola</a>
+     <br>
+    <br>Olá
+
+     <p> Paragrafo </p> 
+
+
+
+     <i>Itálico</i> <b>Negrito/bold</b> <u>Sublinhado/Underline/</u> <mark>Marcar/mark</mark>
+
+        <img src="imagens/pokeCoisa.jpeg" Iniciais" height="200px">
+</body>
+</html>
